@@ -1,0 +1,10 @@
+(librepcb_library b3184c97-cd6d-4d0a-9a32-8ba71a5d3116
+ (name "CNC Tech")
+ (description "Connectors by CNC Tech (unofficial).")
+ (keywords "cnc,cnctech,connectors")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2019-07-09T19:27:44Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/CNC_Tech.lplib")
+)
