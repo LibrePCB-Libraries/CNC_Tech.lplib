@@ -1,0 +1,10 @@
+(librepcb_package_category 92186130-e1a4-4a82-8ce9-88f4aa854195
+ (name "CNC Tech")
+ (description "Custom packages by CNC Tech.")
+ (keywords "cnc")
+ (author "Danilo Bargen")
+ (version "0.1")
+ (created 2019-07-09T19:30:37Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
