@@ -3,7 +3,7 @@
  (description "Connectors by CNC Tech (unofficial).")
  (keywords "cnc,cnctech,connectors")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2019-07-09T19:27:44Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/CNC_Tech.lplib")
