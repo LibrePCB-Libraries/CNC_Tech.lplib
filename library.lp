@@ -7,4 +7,5 @@
  (created 2019-07-09T19:27:44Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/CNC_Tech.lplib")
+ (manufacturer "")
 )
