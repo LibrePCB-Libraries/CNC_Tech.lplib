@@ -8,5 +8,5 @@
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/CNC_Tech.lplib")
  (dependency 6ccc516c-21b7-4cd5-9cf2-7a04cfa361c6)
- (manufacturer "")
+ (manufacturer "CNC Tech")
 )
